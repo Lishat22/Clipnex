@@ -1,0 +1,6 @@
+{
+  "name": "ClipNex AI",
+  "description": "AI ভিডিও ক্লিপিং টুল - দীর্ঘ ভিডিও থেকে সহজে ভাইরাল শর্টস তৈরি করুন",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
